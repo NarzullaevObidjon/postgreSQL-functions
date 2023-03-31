@@ -4,8 +4,6 @@ I wanted to leave here my some knowladges and experiences with functions/procedu
 ## Acknowledgements
 
 Recently, I have worked with a project like [Trello](https://trello.com/). All tables and functions these i created are here 👇👇👇
-Here is tables : 
-
 #
 
 ## Tables
