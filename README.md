@@ -1,4 +1,4 @@
-# This is repository like a tutorial about functions in PostgreSQL
+# This is a repository like a tutorial about functions in PostgreSQL
 
 I wanted to leave here my some knowladges and experiences with functions/procedures PostgreSQL.
 ## Acknowledgements
